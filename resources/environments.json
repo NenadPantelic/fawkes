@@ -1,0 +1,10 @@
+[
+  {
+    "name": "mysql-8.0",
+    "docker_image": "mysql:8.0"
+  },
+  {
+    "name": "python3.10",
+    "docker_image": "python:3.10.14"
+  }
+]

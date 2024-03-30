@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Mid-term exam 2023",
+    "status": "INACTIVE",
+    "course_name": "Databases 2023"
+  },
+  {
+    "description": "Mid-term exam 2024",
+    "status": "COMPLETED",
+    "course_name": "Databases 2024"
+  },
+  {
+    "description": "Final exam 2024",
+    "status": "ACTIVE",
+    "course_name": "Databases 2024"
+  }
+]
